@@ -4,7 +4,7 @@ Quiz pertemuan 5 (genap)
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Isikan Nama dan Nim Anda, Contoh : Agus (101010102)</title>
+    <title>Aurell Nur Jasmine Indrayani, NIM (2204744)</title>
     <style>
       body {
         font-family: Arial, Helvetica, sans-serif;
